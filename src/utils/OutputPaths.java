@@ -9,7 +9,8 @@ package utils;
  */
 public enum OutputPaths {
     OUTPUT_FILE("C:\\Users\\Ambrozie\\IdeaProjects\\ComputerVision\\output"),
-    LAB1_OUTPUT(OUTPUT_FILE.path + "\\lab1.png");
+    LAB1_OUTPUT(OUTPUT_FILE.path + "\\lab1.png"),
+    LAB2_OUTPUT(OUTPUT_FILE.path + "\\lab2.png");
 
     public String path;
 

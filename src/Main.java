@@ -13,5 +13,6 @@ public class Main {
         System.loadLibrary(Core.NATIVE_LIBRARY_NAME);
 
         Lab1.run();
+        Lab2.run();
     }
 }
