@@ -115,7 +115,7 @@ public class Lab3 {
         }
 
         Mat binaryStaveMat = new Mat();
-        Imgproc.threshold(staveMat, binaryStaveMat, 155, 255, Imgproc.THRESH_BINARY);
+        Imgproc.threshold(staveMat, binaryStaveMat, 100, 255, Imgproc.THRESH_BINARY);
         return binaryStaveMat;
     }
 }
