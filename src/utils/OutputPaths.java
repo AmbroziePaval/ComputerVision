@@ -22,7 +22,11 @@ public enum OutputPaths {
     LAB3_R2_ERODE_RECT(OUTPUT_FILE.path + "\\lab3\\lab3_R2_erode_rectangle.png"),
     LAB3_R2_ERODE_BUILDING(OUTPUT_FILE.path + "\\lab3\\lab3_R2_erode_building.png"),
     LAB3_R_RECT(OUTPUT_FILE.path + "\\lab3\\lab3_R_rectangle.png"),
-    LAB3_R_BUILDING(OUTPUT_FILE.path + "\\lab3\\lab3_R_building.png");
+    LAB3_R_BUILDING(OUTPUT_FILE.path + "\\lab3\\lab3_R_building.png"),
+    LAB4_CORREL_ROOT(OUTPUT_FILE.path + "\\lab4\\correl\\"),
+    LAB4_CHISQR_ROOT(OUTPUT_FILE.path + "\\lab4\\chisqr\\"),
+    LAB4_INTERSECT_ROOT(OUTPUT_FILE.path + "\\lab4\\intersect\\"),
+    LAB4_BHATTACHARYYA_ROOT(OUTPUT_FILE.path + "\\lab4\\bhattacharyya\\");
 
     public String path;
 

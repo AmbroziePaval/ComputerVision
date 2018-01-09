@@ -12,7 +12,8 @@ public enum ImagePaths {
     LAB2_SCENE("C:\\Users\\Ambrozie\\IdeaProjects\\ComputerVision\\resources\\lab2\\scene.jpg"),
     LAB2_LOGO("C:\\Users\\Ambrozie\\IdeaProjects\\ComputerVision\\resources\\lab2\\logo.png"),
     LAB3_RECTANGLE("C:\\Users\\Ambrozie\\IdeaProjects\\ComputerVision\\resources\\lab3\\square-rectangle.png"),
-    LAB3_BUILDING("C:\\Users\\Ambrozie\\IdeaProjects\\ComputerVision\\resources\\lab3\\MorpologicalCornerDetection.png");
+    LAB3_BUILDING("C:\\Users\\Ambrozie\\IdeaProjects\\ComputerVision\\resources\\lab3\\MorpologicalCornerDetection.png"),
+    LAB4_ROOT("C:\\Users\\Ambrozie\\IdeaProjects\\ComputerVision\\resources\\lab4\\");
 
     public String path;
 
