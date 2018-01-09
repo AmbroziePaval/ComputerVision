@@ -15,6 +15,7 @@ public class Main {
 //        Lab1.run();
 //        Lab2.run();
 //        Lab3.run();
-        Lab4.run();
+//        Lab4.run();
+        Lab5.run();
     }
 }

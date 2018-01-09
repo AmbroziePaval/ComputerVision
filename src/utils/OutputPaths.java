@@ -26,7 +26,9 @@ public enum OutputPaths {
     LAB4_CORREL_ROOT(OUTPUT_FILE.path + "\\lab4\\correl\\"),
     LAB4_CHISQR_ROOT(OUTPUT_FILE.path + "\\lab4\\chisqr\\"),
     LAB4_INTERSECT_ROOT(OUTPUT_FILE.path + "\\lab4\\intersect\\"),
-    LAB4_BHATTACHARYYA_ROOT(OUTPUT_FILE.path + "\\lab4\\bhattacharyya\\");
+    LAB4_BHATTACHARYYA_ROOT(OUTPUT_FILE.path + "\\lab4\\bhattacharyya\\"),
+    LAB5_LINE(OUTPUT_FILE.path + "\\lab5\\lines.png"),
+    LAB5_CIRCLE(OUTPUT_FILE.path + "\\lab5\\circles.png");
 
     public String path;
 

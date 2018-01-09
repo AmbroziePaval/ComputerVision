@@ -13,7 +13,8 @@ public enum ImagePaths {
     LAB2_LOGO("C:\\Users\\Ambrozie\\IdeaProjects\\ComputerVision\\resources\\lab2\\logo.png"),
     LAB3_RECTANGLE("C:\\Users\\Ambrozie\\IdeaProjects\\ComputerVision\\resources\\lab3\\square-rectangle.png"),
     LAB3_BUILDING("C:\\Users\\Ambrozie\\IdeaProjects\\ComputerVision\\resources\\lab3\\MorpologicalCornerDetection.png"),
-    LAB4_ROOT("C:\\Users\\Ambrozie\\IdeaProjects\\ComputerVision\\resources\\lab4\\");
+    LAB4_ROOT("C:\\Users\\Ambrozie\\IdeaProjects\\ComputerVision\\resources\\lab4\\"),
+    LAB5_SOURCE("C:\\Users\\Ambrozie\\IdeaProjects\\ComputerVision\\resources\\lab5\\desk.jpg");
 
     public String path;
 
